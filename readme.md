@@ -10,15 +10,26 @@
 
 ## Table of Contents
 
-* [Requirements](#requirements)
-* [Problem Description](#problem-description)
-* [Rules and Constraints](#rules-and-constraints)
-* [Input/Output and Examples](#inputoutput-and-examples)
-* [How to Run and Test](#how-to-run-and-test)
-* [How to Submit (PR)](#how-to-submit-pr)
-* [Evaluation Criteria](#evaluation-criteria)
-* [Timeline](#timeline)
-* [Contact](#contact)
+- [Single Operator Calculator](#single-operator-calculator)
+  - [Table of Contents](#table-of-contents)
+  - [Requirements](#requirements)
+  - [Problem Description](#problem-description)
+  - [Rules and Constraints](#rules-and-constraints)
+  - [Input/Output and Examples](#inputoutput-and-examples)
+  - [How to Run and Test](#how-to-run-and-test)
+    - [1) Clone the Project](#1-clone-the-project)
+    - [2) Build and Run (depending on your language)](#2-build-and-run-depending-on-your-language)
+      - [▶ C#](#-c)
+      - [▶ Node.js](#-nodejs)
+      - [▶ Python](#-python)
+      - [▶ Java](#-java)
+      - [▶ Go](#-go)
+      - [▶ Rust](#-rust)
+    - [3) (Optional) Run Tests](#3-optional-run-tests)
+  - [How to Submit (PR)](#how-to-submit-pr)
+  - [Evaluation Criteria](#evaluation-criteria)
+  - [Timeline](#timeline)
+  - [Contact](#contact)
 
 ---
 
@@ -168,7 +179,7 @@ pytest
 4. Example:
 
    ```text
-   solutions/C#/jaber-borzouei/
+   solutions/C#/user-1/
      ├─ Program.cs
      └─ README.md
    ```
